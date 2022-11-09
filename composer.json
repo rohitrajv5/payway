@@ -1,0 +1,17 @@
+{
+    "name": "rohitrajv5/payway",
+    "description": "BCC PayWay Payment Gateway interface",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alain Martini",
+            "email": "webmaster@inalto.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "PayWay\\": "./" }
+    },
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
