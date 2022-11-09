@@ -4,15 +4,14 @@
     "type": "library",
     "authors": [
         {
-            "name": "Alain Martini",
-            "email": "webmaster@inalto.com"
+            "name": "Rohit Raj Verma",
+            "email": "rohitrajv5@inalto.com"
         }
     ],
     "autoload": {
         "psr-4": { "PayWay\\": "./" }
     },
-    "require": {},
-    "version": "1.0.0",
-    "minimum-stability":"stable",
+    "require": {},    
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
