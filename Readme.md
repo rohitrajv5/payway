@@ -2,7 +2,9 @@
 
 This package will allow you to make payment by navigating to payment gateway website and verify transaction made by Credit Card, Debit Card.
 
-2 Steps will be called make payment. INITIATE PAYMENT and VERIFY PAYMENT. Steps are given below in the package.
+2 Steps will be called make payment. 
+
+INITIATE PAYMENT and VERIFY PAYMENT. 
 
 You can install the sdk via composer
 
@@ -11,7 +13,7 @@ composer require rohitrajv5/payway
 ```
 
 
-INITIATE PAYMENT
+1. INITIATE PAYMENT
 
 ```php
 
@@ -53,7 +55,7 @@ $init->paymentID // Payment id of current transaction
 
 ```
 
-VERIFY PAYMENT
+2. VERIFY PAYMENT
 
 ```php
 
