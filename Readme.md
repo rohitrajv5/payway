@@ -1,6 +1,8 @@
-# PayWay
-BCC sinergia Igfs payment gateway sdk for php 7.x
+# PayWay Payment Gateway - Rest API - 2022
 
+This package will allow you to make payment by navigating to payment gateway website and verify transaction made by Credit Card, Debit Card.
+
+2 Steps will be called make payment. INITIATE PAYMENT and VERIFY PAYMENT. Steps are given below in the package.
 
 You can install the sdk via composer
 
@@ -77,7 +79,6 @@ if(!$init->execute()){
 RESPONSE 
 
 You will get ``` $init->tranID ```  and ``` $init->errorDesc ``` in response. It transaction is successfull you will giet TRANSAZIONE OK message.
-
 
 
 Enjoy :)
