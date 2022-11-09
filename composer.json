@@ -13,5 +13,6 @@
     },
     "require": {},
     "version": "1.0.0",
+    "minimum-stability":"1.0",
     "prefer-stable": true
 }
