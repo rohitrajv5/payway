@@ -12,5 +12,6 @@
         "psr-4": { "PayWay\\": "./" }
     },
     "require": {},
+    "version": "1.0.0",
     "prefer-stable": true
 }

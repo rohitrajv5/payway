@@ -5,7 +5,7 @@ BCC sinergia Igfs payment gateway sdk for php 7.x
 You can install the sdk via composer
 
 ```bash
-composer require inalto/payway
+composer require rohitrajv5/payway
 ```
 
 Here a snippet on how to use it
